@@ -45,7 +45,7 @@ Explore the interactive Power BI dashboard for dynamic filtering by occupation, 
 
  🔗 [View Full HTML Report](https://eziesly.github.io/sleep-health-and-lifestyle-analysis/sleephealthdata.html)
  📥 [Download Interactive Power BI Dashboard](https://github.com/eziesly/Sleep-Health-and-Lifestyle-Analysis/blob/main/Sleep_Health_Data_Dashboard.pbix)
-
+[View Interactive Dashboard](https://app.powerbi.com/reportEmbed?reportId=95df045e-4d56-4b96-a875-010b9fbef889&autoAuth=true&ctid=08d52ce7-d1de-4083-b826-396fdffd4ad4)
 ---
 
 ## Files Included
